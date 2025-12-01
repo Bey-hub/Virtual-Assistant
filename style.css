@@ -262,4 +262,14 @@ This forces BOTH images to display at the same size on your webpage, even though
     .contact-card {
         padding: 1rem;
     }
-]
+
+    #footer {
+    text-align: center;
+    padding: 1.5rem 1rem;
+    background-color: #f9f9f9; /* Optional: match your site style */
+    border-top: 2px solid #eee;
+    color: #333;
+    font-size: 0.95rem;
+}
+}
+

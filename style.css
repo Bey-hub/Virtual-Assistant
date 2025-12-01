@@ -271,5 +271,15 @@ This forces BOTH images to display at the same size on your webpage, even though
     color: #333;
     font-size: 0.95rem;
 }
+
+    #footer {
+    background-color: #000;  /* Black background */
+    color: #fff;             /* White text */
+    text-align: center;       /* Centered text */
+    padding: 1.5rem 1rem;
+    border-top: 2px solid #333;  /* Optional: subtle top border */
+    font-size: 0.95rem;
 }
+}
+
 
